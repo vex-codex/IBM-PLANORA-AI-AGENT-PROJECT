@@ -1,29 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,100:00BFFF&height=220&section=header&text=PLANORA%20AI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Intelligent%20Travel%20Planning%20Powered%20by%20IBM%20Cloud%20%26%20Agentic%20AI&descAlignY=58&descAlign=50"/>
+# ✈️ PLANORA AI
+
+### Intelligent Travel Planning Agent powered by IBM Cloud & Agentic AI
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=30&center=true&vCenter=true&width=1000&lines=AI-Powered+Travel+Planning+Assistant;Built+Using+IBM+Cloud+Technologies;Agentic+AI+Workflow+Automation;Smart+Destination+Recommendation+System;Intelligent+Conversational+Travel+Agent" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=950&lines=AI-Powered+Travel+Assistant;Built+with+IBM+Cloud;Smart+Trip+Planning+Using+Agentic+AI;Intelligent+Travel+Recommendation+System" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/YOUR_USERNAME/YOUR_REPO?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Watsonx-AI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IBM-Orchestrate-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic-AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 
----
+<br><br>
 
-![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
-![Watsonx](https://img.shields.io/badge/Watsonx-AI-0f62fe?style=for-the-badge)
-![IBM Orchestrate](https://img.shields.io/badge/IBM-Orchestrate-black?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Agentic-AI-purple?style=for-the-badge)
-![AI Project](https://img.shields.io/badge/Travel-AI-blueviolet?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-
----
-
-### "Transforming Travel Planning Through Intelligent AI Automation"
+> Transforming travel planning into an intelligent AI-driven experience
 
 </div>
 
@@ -31,25 +24,25 @@
 
 # OVERVIEW
 
-PLANORA AI is an advanced AI-powered travel planning assistant designed using IBM Cloud technologies and intelligent Agentic AI workflows.
+PLANORA AI is an intelligent AI-powered travel planning assistant developed using IBM Cloud technologies and Agentic AI workflows.
 
-The project automates the traditional travel planning experience by enabling users to receive smart travel recommendations, personalized guidance, and intelligent destination suggestions through conversational AI interactions.
+The system simplifies the travel planning experience by generating personalized travel guidance, destination suggestions, and budget-aware recommendations through intelligent AI orchestration.
 
-By combining IBM Cloud services with AI orchestration, PLANORA AI simplifies complex travel planning into an efficient and intelligent experience.
+PLANORA AI focuses on automating the traditional travel planning process using conversational AI and smart workflow automation.
 
 ---
 
 # THE CHALLENGE
 
-Traditional travel planning often involves:
+Planning a trip often requires users to:
 
-- Searching across multiple websites
-- Comparing destinations manually
-- Managing travel budgets separately
-- Organizing schedules and recommendations
-- Handling unstructured travel information
+- Search multiple websites
+- Compare destinations manually
+- Manage travel budgets separately
+- Organize schedules and recommendations
+- Handle unstructured travel information
 
-This creates a process that is:
+This makes travel planning:
 - Time-consuming
 - Complex
 - Unorganized
@@ -59,32 +52,26 @@ This creates a process that is:
 
 # THE SOLUTION
 
-PLANORA AI introduces an intelligent AI travel assistant capable of:
+PLANORA AI provides an intelligent AI travel assistant capable of:
 
-✨ Understanding travel preferences  
-✨ Generating personalized travel suggestions  
-✨ Delivering budget-aware recommendations  
-✨ Automating travel guidance workflows  
-✨ Providing conversational travel assistance  
-✨ Simplifying travel decision-making using Agentic AI  
+✨ Understanding user travel preferences  
+✨ Generating personalized travel recommendations  
+✨ Providing budget-aware guidance  
+✨ Automating travel planning workflows  
+✨ Delivering conversational AI assistance  
 
 ---
 
 # KEY FEATURES
 
-<div align="center">
-
 | Feature | Description |
 |---|---|
 | AI Recommendation Engine | Smart destination recommendations |
-| Personalized Planning | Tailored travel guidance |
-| Budget Optimization | Budget-aware assistance |
-| Conversational AI | Interactive AI communication |
-| Agentic Workflow | Intelligent orchestration |
-| IBM Cloud Integration | Cloud-based AI architecture |
-| Smart Automation | Automated travel support |
-
-</div>
+| Personalized Planning | Customized travel guidance |
+| Budget Assistance | Budget-aware recommendations |
+| Conversational AI | Intelligent AI interaction |
+| Workflow Automation | Agentic AI orchestration |
+| IBM Cloud Integration | Cloud-based AI deployment |
 
 ---
 
@@ -97,8 +84,8 @@ PLANORA AI introduces an intelligent AI travel assistant capable of:
 | IBM Cloud | Cloud Infrastructure |
 | IBM watsonx.ai | AI Model Processing |
 | IBM Orchestrate | Workflow Automation |
-| Agentic AI | Intelligent Task Execution |
-| APIs | External Data Integration |
+| Agentic AI | Intelligent Task Handling |
+| APIs | Data Integration |
 
 </div>
 
@@ -106,57 +93,37 @@ PLANORA AI introduces an intelligent AI travel assistant capable of:
 
 # IBM CLOUD SERVICES USED
 
-<div align="center">
-
-| Service | Role |
-|---|---|
-| IBM Cloud | Hosting & Infrastructure |
-| IBM watsonx.ai | AI Response Generation |
-| IBM Orchestrate | Intelligent Workflow Handling |
-
-</div>
+- IBM Cloud
+- IBM watsonx.ai
+- IBM Orchestrate
 
 ---
 
 # ROLE OF AGENTIC AI
 
-Agentic AI enables PLANORA AI to act as an intelligent autonomous assistant capable of:
+Agentic AI enables the system to:
 
-- Understanding user intent
-- Processing travel-related requests
-- Automating decision workflows
-- Generating contextual responses
-- Delivering personalized travel assistance
+- Understand user intent
+- Process travel-related requests
+- Generate intelligent responses
+- Automate travel planning workflows
+- Deliver personalized travel assistance
 
-The system behaves dynamically to provide efficient and intelligent travel guidance.
+The AI agent dynamically handles user travel queries and recommendation generation.
 
 ---
 
 # SYSTEM WORKFLOW
 
 ```text
-┌─────────────────────┐
-│     User Query      │
-└─────────┬───────────┘
-          │
-          ▼
-┌─────────────────────┐
-│  AI Agent Processing│
-└─────────┬───────────┘
-          │
-          ▼
-┌─────────────────────┐
-│ IBM Orchestrate AI  │
-│     Workflow        │
-└─────────┬───────────┘
-          │
-          ▼
-┌─────────────────────┐
-│ Travel Recommendation│
-│      Engine         │
-└─────────┬───────────┘
-          │
-          ▼
-┌─────────────────────┐
-│ Intelligent Response│
-└─────────────────────┘
+User Input
+    ↓
+AI Agent Processing
+    ↓
+IBM Orchestrate Workflow
+    ↓
+Travel Recommendation Engine
+    ↓
+Smart Response Generation
+    ↓
+Final Travel Guidance
