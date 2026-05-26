@@ -17,7 +17,6 @@
 
 ![REST API](https://img.shields.io/badge/API-REST%20Architecture-00A86B?style=for-the-badge)
 
-![Agentic AI](https://img.shields.io/badge/Agentic-AI-black?style=for-the-badge)
 ---
 
 
