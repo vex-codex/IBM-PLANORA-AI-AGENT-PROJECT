@@ -21,7 +21,11 @@
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Orchestration-111111?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![REST API](https://img.shields.io/badge/API-REST%20Architecture-00A86B?style=for-the-badge)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
 
+![Watsonx](https://img.shields.io/badge/Watsonx-AI-blue?style=for-the-badge)
+
+![Agentic AI](https://img.shields.io/badge/Agentic-AI-black?style=for-the-badge)
 ---
 
 ## Core Idea
