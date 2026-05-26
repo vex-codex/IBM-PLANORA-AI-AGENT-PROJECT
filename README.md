@@ -14,6 +14,8 @@
 ![Watsonx](https://img.shields.io/badge/Watsonx-AI-blue?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic-AI-black?style=for-the-badge)
 ![AI Project](https://img.shields.io/badge/Project-Travel%20AI-purple?style=for-the-badge)
+* **IBM Orchestrate Components** for workflow automation and multi-agent coordination
+
 
 </div>
 
