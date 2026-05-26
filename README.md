@@ -14,7 +14,17 @@
 ![Watsonx](https://img.shields.io/badge/Watsonx-AI-blue?style=for-the-badge)
 ![Agentic AI](https://img.shields.io/badge/Agentic-AI-black?style=for-the-badge)
 ![AI Project](https://img.shields.io/badge/Project-Travel%20AI-purple?style=for-the-badge)
-* **IBM Orchestrate Components** for workflow automation and multi-agent coordination
+## Technology Stack
+
+
+)
+![REST API](https://img.shields.io/badge/API-REST%20Architecture-00A86B?style=for-the-badge)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
+
+![Watsonx](https://img.shields.io/badge/Watsonx-AI-blue?style=for-the-badge)
+
+![Agentic AI](https://img.shields.io/badge/Agentic-AI-black?style=for-the-badge)
+---
 
 
 </div>
